@@ -15,7 +15,7 @@ What are included:
 2.3 List the top 10 most expensive boroughs in London
 2.4 Depict the average price evolution through time from 1995 to 2020 of different regions and districts that I would like to know
 
-Conclusion: 
+Conclusions: 
 1. London increases more rapidly then UK in general, especially between 2010 and 2017
 2. The COVID does not effect the house pricing market that much in 2020. 
 3. The top 5 expensive regions in the UK are: Windsor and Maidenhead, Bournemouth, Christchurch and Poole, Greater London, Surrey and Buckinghamshire. 
