@@ -10,12 +10,13 @@ My 1st project to use python to do data analysis over more than 25 million house
 What are included:
 1. Data cleaning
 2. Data visualization: 
-1) Compare the average sold house prices between UK and London.
-2) List the top 10 most expensive regions in UK
-3) List the top 10 most expensive boroughs in London
-4) Depict the average price evolution through time from 1995 to 2020 of different regions and districts that I would like to know
+2.1 Compare the average sold house prices between UK and London.
+2.2 List the top 10 most expensive regions in UK
+2.3 List the top 10 most expensive boroughs in London
+2.4 Depict the average price evolution through time from 1995 to 2020 of different regions and districts that I would like to know
 
 Conclusion: 
 1. London increases more rapidly then UK in general, especially between 2010 and 2017
-2. The top 5 expensive regions in the UK are: Windsor and Maidenhead, Bournemouth, Christchurch and Poole, Greater London, Surrey and Buckinghamshire. 
-3. The top 5 expensive boroughs in London are Kensington and Chelsea, City of Westminster, Camden, City of London, Hammersmith and Fulham
+2. The COVID does not effect the house pricing market that much in 2020. 
+3. The top 5 expensive regions in the UK are: Windsor and Maidenhead, Bournemouth, Christchurch and Poole, Greater London, Surrey and Buckinghamshire. 
+4. The top 5 expensive boroughs in London are Kensington and Chelsea, City of Westminster, Camden, City of London, Hammersmith and Fulham
