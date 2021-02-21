@@ -1,5 +1,5 @@
 # UK-Housing-Market-Analysis
-UK housing market analysis using python. 
+UK housing market analysis using python in Jupyter Notebook.
 
 Data used: UK sold houses data from 1995 to 2020
 https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
